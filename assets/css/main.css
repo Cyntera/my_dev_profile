@@ -1,0 +1,38 @@
+body {
+	background-color: silver;
+}
+
+div.profile img {
+	border: 1px solid black;
+}
+
+header {
+	background-color: gray;
+	box-shadow: 5px 5px 5px lightgray;
+	color: white;
+	text-align: center;
+}
+
+img {
+	box-shadow: 5px 5px 5px gray;
+}
+
+.links {
+	float: right;
+	padding-right: 10%;
+}
+
+p {
+	background-color: yellow;
+	box-shadow: 5px 5px 5px gray;
+	color: gray;
+	margin: 10% 10%;
+	padding: 3% 5% 3% 30%;
+	width: 30em;
+}
+
+.profile {
+	float: left;
+	margin: 5% 15%;
+	position: fixed;
+}
